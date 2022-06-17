@@ -1,0 +1,92 @@
+body {
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #1f1f1f;
+}
+
+hr{
+    border:dotted red 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h1 {
+    font-size: 5.625rem;
+    border: 10px solid #fff;
+    
+    margin: 50px auto 0 auto;
+    font-family: 'VCR OSD Mono', cursive;
+    color: #fff;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'VCR OSD Mono', sans-serif;
+    font-size: 2.5rem;
+    color: #fff;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.top-container {
+    background-color: #1f1f1f;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin: 100px auto;
+
+    
+   
+}
+
+.valorant-img{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.aimlab-img{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+  
+}
+
+.intro{
+    width: 70%;
+    margin: auto;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px ;
+}
+
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+  }
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #dd4a4a;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #242424;
+
+    text-decoration: none;
+  }
+
+  
